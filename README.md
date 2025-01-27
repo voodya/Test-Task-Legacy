@@ -1,4 +1,4 @@
-# TestSolution
+# Test task junior from 2020
 
 Тестовое за час (Legacy)
 
